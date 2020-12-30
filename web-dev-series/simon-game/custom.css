@@ -1,0 +1,51 @@
+h1,h2{
+  font-size: 3rem;
+}
+h2{
+  font-size: 2rem;
+}
+h3{
+  font-size: 1rem;
+}
+h1, h2, h3{
+  font-family: 'Frijole', cursive;
+  color:white;
+}
+body{
+  background-color: #a9294f;
+  text-align: center;
+}
+.red{
+  background-color: red;
+}
+.blue{
+  background-color: blue;
+}
+.yellow{
+  background-color: yellow;
+}
+.green{
+  background-color: green;
+}
+.pressed {
+  box-shadow: 0 0 20px white;
+  background-color: grey;
+}
+.container {
+  display: block;
+  width: 50%;
+  margin: auto;
+  align-items: center;
+}
+.btn {
+  margin: 25px;
+  display: inline-block;
+  height: 230px;
+  width: 230px;
+  border: 10px solid black;
+  border-radius: 20%;
+}
+.game-over {
+  background-color: #a9294f;
+  opacity: 0.8;
+}

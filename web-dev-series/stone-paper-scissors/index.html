@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"> <!-- displays site properly based on user's device -->
+  <title>Rock, Paper, Scissors</title>
+  <link rel="icon" type="image/png" href="images/favicon-32x32.png">
+  <link rel="stylesheet" type="text/css" href="custom.css">
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+  <div class="hud">
+    <div>
+      <p>ROCK</p>
+      <p>PAPER</p>
+      <p>SCISSOR</p>
+    </div>
+    <div class="score">
+      <h5>Score</h5>
+      <span class="points">0</span>
+    </div>
+  </div>
+
+  <button class="rules">
+    Rules
+  </button>
+
+  <div class="selection">
+    <div class="option paper"><img src="images/icon-paper.svg"></div>
+    <div class="option scissors"><img src="images/icon-scissors.svg"></div>
+    <div class="option rock"><img src="images/icon-rock.svg"></div>
+  </div>
+  <div class="activegame hidden">
+    <div>
+      <h2>You Picked</h2>
+      <div id="player"></div>
+    </div>
+    <div>
+      <h2>The House Picked</h2>
+      <div id="house"></div>
+    </div>
+  </div>
+
+  <div class="result">
+    <span class="win hidden">You Win</span>
+    <span class="lose hidden">You Lose</span>
+    <span class="draw hidden">Draw</span>
+
+    <button id="playagain" class="hidden">Play Again</button>
+  </div>
+
+  <div class="attribution">
+    <img id="ruleimg" src="images/image-rules.svg" class="hidden" alt="Not found">
+    <span id="promo">
+      Challenge by <a>Frontend Mentor</a>.
+      Coded by <a href="#">aps08</a>.
+    </span>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+
+</html>

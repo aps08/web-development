@@ -1,0 +1,62 @@
+h1{
+  font-family: 'Langar', cursive;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 4rem;
+}
+body{
+  background-color: #fff269;
+}
+
+h3{
+  font-family: 'Langar', cursive;
+  font-family: 'Luckiest Guy', cursive;
+  font-size: 3rem;
+}
+button{
+  border-width: thick;
+}
+.drum {
+  border: 10px solid #404B69;
+  font-size: 5rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: #DA0463;
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 170px;
+  height: 170px;
+  text-align: center;
+  margin: 10px;
+}
+
+.drum:focus{
+  outline: none;
+  background-size: contain;
+}
+.a{
+  background-image: url("images/crash.png");
+}
+.w{
+  background-image: url("images/kick.png");
+}
+.s{
+  background-image: url("images/snare.png");
+}
+.d{
+  background-image: url("images/tom1.png");
+}
+.j{
+  background-image: url("images/tom2.png");
+}
+.k{
+  background-image: url("images/tom3.png");
+}
+.l{
+  background-image: url("images/tom4.png");
+}
+.pressed{
+  box-shadow: 0 3px 4px 0;
+  opacity: 0.4;
+}

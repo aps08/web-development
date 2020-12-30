@@ -1,0 +1,125 @@
+/* For attribution and full body */
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution {
+  line-height: 3rem;
+  font-size: 1rem;
+  text-align: center;
+  color: hsl(229, 23%, 23%);
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+body {
+  height: 100vh;
+  font-family: 'Kumbh Sans', sans-serif;
+  background: url('images/bg-pattern-bottom.svg') bottom -600px right -150px no-repeat, url('images/bg-pattern-top.svg') top -500px left -200px no-repeat;
+  background-color: hsl(185, 75%, 39%);
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+/* For Card */
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 400px;
+  height: 440px;
+  background: #fefefe;
+  margin: auto;
+  border-radius: 20px;
+  overflow: hidden;
+  position: relative;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/* For card header */
+.card .card-header img {
+  width: 100%;
+  margin-bottom: 0;
+}
+
+/* for card content */
+
+.card .card-content {
+  flex: 0.7;
+  align-items: center;
+  text-align: center;
+}
+
+.card .card-content img {
+  border-radius: 50%;
+  transform: translateY(-50%);
+  border: 4px solid #fefefe;
+}
+
+.card .card-content p {
+  margin: 0 0;
+}
+
+.card .card-content p:first-of-type {
+  font-weight: bold;
+  font-size: 24px;
+  color: hsl(229, 23%, 23%);
+}
+
+.card .card-content p:first-of-type span {
+  color: hsl(227, 10%, 46%);
+  font-weight: normal;
+}
+
+/* for card footer */
+.card .card-footer {
+  flex: 0.2;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-evenly;
+  border-top: 2px solid #d8d9df;
+  color: hsl(229, 23%, 23%);
+  margin: 0;
+}
+
+.card .card-footer .footer-item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 0;
+}
+
+.card .card-footer .footer-item .status {
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 15px;
+  margin-bottom: 0;
+}
+
+.card .card-footer .footer-item .item-name {
+  color: hsl(227, 10%, 46%);
+  margin-top: 10px;
+  letter-spacing: 2px;
+  font-size: 10px;
+}
+
+.card .card-footer p {
+  margin-top: 10px 0;
+}
+
+small {
+  margin-top: 0;
+}
+/* ENDS */

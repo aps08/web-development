@@ -1,0 +1,182 @@
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+.attribution span {
+  display: block;
+  width: 500px;
+}
+
+.points {
+  font-size: 3rem;
+}
+
+h5 {
+  font-family: none;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  font-family: arial;
+  text-transform: uppercase;
+  position: relative;
+  background: radial-gradient(hsl(214, 47%, 23%), hsl(237, 49%, 15%));
+  padding: 0;
+  margin: 0;
+  width: 100vw;
+  height: 100vh;
+  font-family: 'Alfa Slab One', cursive;
+}
+
+.hud {
+  display: flex;
+  justify-content: space-between;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 15px;
+  margin: 20px auto 20px auto;
+  margin-bottom: 40px;
+  width: 50%;
+  min-width: 500px;
+}
+
+.hud p {
+  line-height: 20px;
+  color: #fff;
+  font-size: 30px;
+  font-family: arial;
+  font-weight: bold;
+  margin: 10px;
+}
+
+.score {
+  display: flex;
+  font-size: 1.2rem;
+  flex-direction: column;
+  align-items: center;
+  background: #fff;
+  width: 150px;
+  margin: 5px;
+  border-radius: 5px;
+}
+
+button {
+  width: 100px;
+  height: 50px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  background: none;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.rules {
+  position: absolute;
+  bottom: 100px;
+  right: 100px;
+}
+
+.activegame, .result {
+  display: flex;
+  justify-content: space-between;
+  width: 600px;
+  color: #fff;
+  text-align: center;
+}
+
+.result {
+  display: flex;
+  height: 100px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.result button {
+  margin: 5px;
+}
+
+.activegame>div:nth-of-type(1)>div {
+  border-color: yellow;
+}
+
+.activegame>div:nth-of-type(2n)>div {
+  border-color: red;
+}
+
+.activegame>div>div {
+  margin: auto;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.result {
+  display: flex;
+  justify-content: center;
+  font-weight: bold;
+  font-size: 38px;
+}
+
+.selection {
+  height: 450px;
+  display: flex;
+  align-items: flex-start;
+}
+
+.option, .activegame>div>div {
+  width: 150px;
+  height: 150px;
+  border: 20px solid;
+  box-shadow: -5px 5px 30px 3px #000, inset 0 0 5px 2px #000;
+  padding: 20px;
+  border-radius: 50%;
+  background: #fff;
+}
+
+.option {
+  margin: -20px;
+}
+
+#promo {
+  margin: : 10px;
+}
+
+.selection .option:nth-of-type(2) {
+  align-self: flex-end;
+}
+
+.option img, .activegame>div>div>img {
+  width: 80%;
+  height: 80%;
+  margin: 10%;
+}
+
+.option:hover img {
+  width: 74%;
+  height: 74%;
+  margin: 13%;
+}
+
+.paper {
+  border-color: rgb(197, 0, 0);
+}
+
+.scissors {
+  border-color: rgb(0, 175, 245);
+}
+
+.rock {
+  border-color: rgb(255, 174, 0);
+}
