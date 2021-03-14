@@ -1,0 +1,220 @@
+﻿{
+    "camps": [
+        {
+            "id": "1",
+            "state": "Karnataka",
+            "city": "Udupi, ",
+            "address": "Ncc Ppc College",
+            "date": "04/01/2021",
+            "time": "10.30 AM-2.30 PM"
+        },
+        {
+            "id": "2",
+            "state": "Gujarat",
+            "city": "Ahmedabad",
+            "address": "NSS Unit Of S B Garda Arts and PK Patel College of Commerce In association WITH NIFAA,Sayaji Road, Navsari",
+            "date": "04/03/2021",
+            "time": "9.00 AM-3.00 PM"
+        },
+        {
+            "id": "3",
+            "state": "Gujarat",
+            "city": "Ahmedabad",
+            "address": "IRCS Anand,Sardar Bhavan, Opp Nagarpalika Sardar Gunj Road, Anand",
+            "date": "04/04/2021",
+            "time": "2.30 PM-7.00 PM"
+        },
+        {
+            "id": "4",
+            "state": "Odisha",
+            "city": "Kendrapara",
+            "address": "Golden Club,Indupur",
+            "date": "04/06/2021",
+            "time": "2.00 PM-6.00 PM"
+        },
+        {
+            "id": "5",
+            "state": "Gujarat",
+            "city": "Surat",
+            "address": "Khodiyar Mata Mandir,Sarsana ",
+            "date": "04/08/2021",
+            "time": "10.30 AM-4.30 PM"
+        },
+        {
+            "id": "6",
+            "state": "Tamil Nadu",
+            "city": "Sankarankovil",
+            "address": "Samuthaya nala koodam,Alkondarkulam",
+            "date": "04/10/2021",
+            "time": "9.30 AM-6.30 PM"
+        },
+        {
+            "id": "7",
+            "state": "Arunachal Pradesh",
+            "city": " Pasighat",
+            "address": "Bakin Pertin General Gospital Pasighat",
+            "date": "04/13/2021",
+            "time": "10.30 AM-4.00 PM"
+        },
+        {
+            "id": "8",
+            "state": "Haryana",
+            "city": "Bhiwani",
+            "address": "education board bhiwani",
+            "date": "04/15/2021",
+            "time": "10.00 AM-3.00 PM"
+        },
+        {
+            "id": "9",
+            "state": "Haryana",
+            "city": "Bhiwani",
+            "address": "VPO Badrai,sh shyam mandir badrai naurangabas jatan",
+            "date": "04/19/2021",
+            "time": "10.30 AM-4.00 PM"
+        },
+        {
+            "id": "10",
+            "state": "Kerala",
+            "city": "Thiruvananthapuram",
+            "address": "Anachal govt ups,Anachal ,Vamanapuram",
+            "date": "04/22/2021",
+            "time": "10.30 AM-2.30 PM"
+        },
+        {
+            "id": "11",
+            "state": "Tamil Nadu",
+            "city": "Tirunelveli",
+            "address": "Blood Bank Tirunelveli Medical College Hospital,Palayamkottai",
+            "date": "04/23/2021",
+            "time": "10.00 AM-3.00 PM"
+        },
+        {
+            "id": "12",
+            "state": "Haryana",
+            "city": "Bhiwani,",
+            "address": "Govt school,gothra",
+            "date": "04/25/2021",
+            "time": "10.30 AM-5.00 PM"
+        },
+        {
+            "id": "13",
+            "state": "Kerala",
+            "city": "Thiruvananthapuram",
+            "address": "SCT College Of Engineering, Pappanamcode",
+            "date": "04/28/2021",
+            "time": "1.30 PM-7.00 PM"
+        },
+        {
+            "id": "14",
+            "state": "Maharashtra",
+            "city": "Mumbai",
+            "address": "Padgha Gram Panchayat,Padgha, BHIWANDI, Thane",
+            "date": "04/30/2021",
+            "time": "10.00 AM-8.00 PM"
+        },
+        {
+            "id": "15",
+            "state": "Kerala",
+            "city": "Thiruvananthapuram",
+            "address": "LISER,Vithura , Bonacaud, Trivandrum ",
+            "date": "05/02/2021",
+            "time": "1.00 PM-6.00 PM"
+        },
+        {
+            "id": "16",
+            "state": "Punjab",
+            "city": "Rupnagar",
+            "address": "Peer Baba Jinda Shahid ,Nurpur Bedi, Anandpur Sahib",
+            "date": "05/04/2021",
+            "time": "2.30 PM-7.30 PM"
+        },
+        {
+            "id": "17",
+            "state": "Delhi",
+            "city": "Bhajan Pura",
+            "address": "Saboli Vistor,Nr Bhajan Pura, Bhajan Pura, North East",
+            "date": "05/08/2021",
+            "time": "1.00 PM-3.00 PM"
+        },
+        {
+            "id": "18",
+            "state": "Uttar Pradesh",
+            "city": "Sonbhadra",
+            "address": "Priyanka Farnichar Atithi Plaza ,Renukoot",
+            "date": "05/11/2021",
+            "time": "1.00 PM-5.30PM"
+        },
+        {
+            "id": "19",
+            "state": "Daman Diu",
+            "city": "NANI DAMAN",
+            "address": "JB CHEMICAL ,SURVEY NO1012 , 1021 DAMAN INDUSTRIES ESTATE AIRPORT ROAD KADAIVA",
+            "date": "05/15/2021",
+            "time": "2.30 PM-7.00 PM"
+        },
+        {
+            "id": "20",
+            "state": "West Bengal",
+            "city": "Balurghat",
+            "address": "P.O- Beltala Park",
+            "date": "05/18/2021",
+            "time": "10.30 AM-5.00 PM"
+        },
+        {
+            "id": "21",
+            "state": "Karnataka",
+            "city": "Bangalore",
+            "address": "Indian Red Cross Society, 26, 1st Floor, Red Cross Bhavan, Racecourse Road, Madhava Nagar",
+            "date": "05/18/2021",
+            "time": "1.00 PM-8.00 PM"
+        },
+        {
+            "id": "22",
+            "state": "Karnataka",
+            "city": "Bangalore ",
+            "address": " Mahaveer Jain Hospital, Millers Road, Vasanth Nagar",
+            "date": "05/20/2021",
+            "time": "10.30 AM-4.00 PM"
+        },
+        {
+            "id": "23",
+            "state": "Karnataka",
+            "city": "Bangalore ",
+            "address": "No 1445 &1482, Vajra Complex, 1st Floor, 28th Main, South End A & B Cross, Jayanagar 9th Block",
+            "date": "05/21/2021",
+            "time": "9.30 AM-4.00 PM"
+        },
+        {
+            "id": "24",
+            "state": "Uttar Pradesh",
+            "city": "Muzaffarnagar",
+            "address": "Sd Market,Near Shiv Chownk",
+            "date": "05/23/2021",
+            "time": "10.30 AM-2.30 PM"
+        },
+        {
+            "id": "25",
+            "state": "West Bengal",
+            "city": "Dakshin Dinajpu",
+            "address": "Avijitri Club Balurghat,Avijitri Club Balurghat",
+            "date": "05/26/2021",
+            "time": "8.30 AM-4.00 PM"
+        },
+        {
+            "id": "26",
+            "state": "Karnataka",
+            "city": "Bangalore ",
+            "address": "91/2, Dr. A N Krishna, Ranga Rao Rd, opp. BMS Law College, Sector 2, PWD Quarters, Vishweshwarapura",
+            "date": "05/28/2021",
+            "time": "1.00 PM-3.00 PM"
+        },
+        {
+            "id": "27",
+            "state": "Karnataka",
+            "city": "Bangalore ",
+            "address": "District Fund Road Jayanagar 9th Block",
+            "date": "06/02/2021",
+            "time": "8.30 AM-8.00 PM"
+        }
+    ]
+}
