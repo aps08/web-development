@@ -51,7 +51,7 @@
         {
             "id": "7",
             "state": "Arunachal Pradesh",
-            "city": " Pasighat",
+            "city": "East Siang district",
             "address": "Bakin Pertin General Gospital Pasighat",
             "date": "04/13/2021",
             "time": "10.30 AM-4.00 PM"
@@ -130,14 +130,6 @@
         },
         {
             "id": "17",
-            "state": "Delhi",
-            "city": "Bhajan Pura",
-            "address": "Saboli Vistor,Nr Bhajan Pura, Bhajan Pura, North East",
-            "date": "05/08/2021",
-            "time": "1.00 PM-3.00 PM"
-        },
-        {
-            "id": "18",
             "state": "Uttar Pradesh",
             "city": "Sonbhadra",
             "address": "Priyanka Farnichar Atithi Plaza ,Renukoot",
@@ -145,23 +137,23 @@
             "time": "1.00 PM-5.30PM"
         },
         {
-            "id": "19",
+            "id": "18",
             "state": "Daman Diu",
-            "city": "NANI DAMAN",
-            "address": "JB CHEMICAL ,SURVEY NO1012 , 1021 DAMAN INDUSTRIES ESTATE AIRPORT ROAD KADAIVA",
+            "city": "DAMAN",
+            "address": "JB CHEMICAL ,SURVEY NO1012 , 1021 DAMAN INDUSTRIES ESTATE AIRPORT ROAD KADAIVA,NANI DAMAN",
             "date": "05/15/2021",
             "time": "2.30 PM-7.00 PM"
         },
         {
-            "id": "20",
+            "id": "19",
             "state": "West Bengal",
-            "city": "Balurghat",
-            "address": "P.O- Beltala Park",
+            "city": "Dakshin Dinajpur",
+            "address": "P.O- Beltala Park, Balurghat",
             "date": "05/18/2021",
             "time": "10.30 AM-5.00 PM"
         },
         {
-            "id": "21",
+            "id": "20",
             "state": "Karnataka",
             "city": "Bangalore",
             "address": "Indian Red Cross Society, 26, 1st Floor, Red Cross Bhavan, Racecourse Road, Madhava Nagar",
@@ -169,15 +161,15 @@
             "time": "1.00 PM-8.00 PM"
         },
         {
-            "id": "22",
+            "id": "21",
             "state": "Karnataka",
             "city": "Bangalore ",
-            "address": " Mahaveer Jain Hospital, Millers Road, Vasanth Nagar",
+            "address": "Mahaveer Jain Hospital, Millers Road, Vasanth Nagar",
             "date": "05/20/2021",
             "time": "10.30 AM-4.00 PM"
         },
         {
-            "id": "23",
+            "id": "22",
             "state": "Karnataka",
             "city": "Bangalore ",
             "address": "No 1445 &1482, Vajra Complex, 1st Floor, 28th Main, South End A & B Cross, Jayanagar 9th Block",
@@ -185,7 +177,7 @@
             "time": "9.30 AM-4.00 PM"
         },
         {
-            "id": "24",
+            "id": "23",
             "state": "Uttar Pradesh",
             "city": "Muzaffarnagar",
             "address": "Sd Market,Near Shiv Chownk",
@@ -193,7 +185,7 @@
             "time": "10.30 AM-2.30 PM"
         },
         {
-            "id": "25",
+            "id": "24",
             "state": "West Bengal",
             "city": "Dakshin Dinajpu",
             "address": "Avijitri Club Balurghat,Avijitri Club Balurghat",
@@ -201,7 +193,7 @@
             "time": "8.30 AM-4.00 PM"
         },
         {
-            "id": "26",
+            "id": "25",
             "state": "Karnataka",
             "city": "Bangalore ",
             "address": "91/2, Dr. A N Krishna, Ranga Rao Rd, opp. BMS Law College, Sector 2, PWD Quarters, Vishweshwarapura",
@@ -215,6 +207,15 @@
             "address": "District Fund Road Jayanagar 9th Block",
             "date": "06/02/2021",
             "time": "8.30 AM-8.00 PM"
+        },
+        {
+            "id": "27",
+            "state": "Haryana",
+            "city": "Panchkula",
+            "address": "DC Office,Sector-2",
+            "date": "06/02/2021",
+            "time": "8.30 AM-8.00 PM"
         }
     ]
 }
+
