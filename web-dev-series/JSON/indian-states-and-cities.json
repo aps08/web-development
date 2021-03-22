@@ -3,15 +3,10 @@
       {
          "state":"Arunachal Pradesh",
          "districts":[
-            "West Kameng",
             "East Kameng",
             "West Siang",
             "East Siang",
-            "Siang",
-            "Upper Siang",
-            "Lower Siang",
-            "Tirap",
-            "Longding"
+            "Upper Siang"
          ]
       },
       {
@@ -26,7 +21,6 @@
          "districts":[
             "Ahmedabad",
             "Amreli",
-            "Anand",
             "Aravalli",
             "Bharuch",
             "Bhavnagar",
@@ -45,11 +39,9 @@
          "districts":[
             "Ambala",
             "Bhiwani",
-            "Charkhi Dadri",
             "Faridabad",
             "Fatehabad",
             "Gurgaon",
-            "Mewat",
             "Palwal",
             "Panchkula"
          ]
@@ -60,7 +52,6 @@
             "Bagalkot",
             "Bangalore Urban",
             "Bidar",
-            "Chamarajanagar",
             "Chikballapur",
             "Kodagu",
             "Kolar",
@@ -134,7 +125,6 @@
             "Chennai",
             "Coimbatore",
             "Madurai",
-            "Sankarankovil",
             "Theni",
             "Tiruchirappalli",
             "Tirunelveli",
@@ -163,7 +153,6 @@
       {
          "state":"West Bengal",
          "districts":[
-            "Alipurduar",
             "Bankura",
             "Birbhum",
             "Cooch Behar",
