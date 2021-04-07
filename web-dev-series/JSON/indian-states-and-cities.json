@@ -1,5 +1,6 @@
 [
       {
+         "id":"0",
          "state":"Arunachal Pradesh",
          "districts":[
             "East Kameng",
@@ -9,6 +10,7 @@
          ]
       },
       {
+            "id":"1",
          "state":"Daman and Diu",
          "districts":[
             "Daman",
@@ -16,6 +18,7 @@
          ]
       },
       {
+            "id":"2",
          "state":"Gujarat",
          "districts":[
             "Ahmedabad",
@@ -34,6 +37,7 @@
          ]
       },
       {
+            "id":"3",
          "state":"Haryana",
          "districts":[
             "Ambala",
@@ -46,6 +50,7 @@
          ]
       },
       {
+            "id":"4",
          "state":"Karnataka",
          "districts":[
             "Bagalkot",
@@ -60,6 +65,7 @@
          ]
       },
       {
+            "id":"5",
          "state":"Kerala",
          "districts":[
             "Alappuzha",
@@ -72,6 +78,7 @@
          ]
       },
       {
+            "id":"6",
          "state":"Maharashtra",
          "districts":[
             "Ahmednagar",
@@ -88,6 +95,7 @@
          ]
       },
       {
+            "id":"7",
          "state":"Odisha",
          "districts":[
             "Angul",
@@ -103,6 +111,7 @@
          ]
       },
       {
+            "id":"8",
          "state":"Punjab",
          "districts":[
             "Amritsar",
@@ -118,6 +127,7 @@
          ]
       },
       {
+            "id":"9",
          "state":"Tamil Nadu",
          "districts":[
             "Ariyalur",
@@ -133,6 +143,7 @@
          ]
       },
       {
+            "id":"10",
          "state":"Uttar Pradesh",
          "districts":[
             "Agra",
@@ -150,6 +161,7 @@
          ]
       },
       {
+            "id":"11",
          "state":"West Bengal",
          "districts":[
             "Bankura",
