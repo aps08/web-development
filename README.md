@@ -3,9 +3,11 @@
  <img src="https://img.shields.io/badge/contributors-1-blue" alt="4contributors"> 
  <img src="https://img.shields.io/badge/maintained-no-red" alt="nmaintained"> 
  <img src="https://img.shields.io/badge/responsive-50-green" alt="not reponsive"> 
- <img src="https://img.shields.io/badge/HTML-red" > 
- <img src="https://img.shields.io/badge/Javascript-yellow" > 
- <img src="https://img.shields.io/badge/CSS-blue" > 
+ </p>
+ <p>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" > 
+ <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" > 
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" > 
 </p>
 This respository contains 6 mini-projects, made using HTML, CSS and Javascript
 
