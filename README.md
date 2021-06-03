@@ -33,6 +33,7 @@ This respository contains 6 mini-projects, made using HTML, CSS and Javascript
 
 + #### Simon game
 <img width="40%" src="https://user-images.githubusercontent.com/65893968/103339465-7520a680-4aa7-11eb-819c-a750348aea01.png">
+
 ### Connect
 <p>
  
