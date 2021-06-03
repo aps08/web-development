@@ -1,6 +1,5 @@
 ## Web development
 <p align="left">
- <img src="https://img.shields.io/badge/contributors-1-blue" alt="4contributors"> 
  <img src="https://img.shields.io/badge/maintained-no-red" alt="nmaintained"> 
  <img src="https://img.shields.io/badge/responsive-50-green" alt="not reponsive"> 
  </p>
